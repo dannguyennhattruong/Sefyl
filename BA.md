@@ -26,6 +26,7 @@ thông tin việc làm đến các ứng viên
 trực tuyến 
    * Quảng cáo
  - Đối với cá nhân người dùng (verify 🚀)
+ 
    👉🏾 Tham gia và theo dõi các đội(nhóm) mà mình yêu thích, quan tâm ✔
    
    👉 Liên lạc, gửi tin nhắn, trò chuyện với bạn bè ✔
