@@ -1,2 +1,0 @@
-# Sefyl
-Private project
